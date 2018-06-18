@@ -1,6 +1,6 @@
 # Learning Structural Weight Uncertainty for Sequential Decision-Making (AISTATS 2018)
 
-This repository contains the heano code to replicate experiments in our AISTATS paper.
+This repository contains the theano code to replicate experiments in our AISTATS paper.
 ```latex
 @inproceedings{Learning Structural Weight Uncertainty for Sequential Decision-Making, 
   title={Adversarial Time-to-Event Modeling},
