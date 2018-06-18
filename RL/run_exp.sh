@@ -1,0 +1,15 @@
+python main_benchmark.py multi_REINFORCE_stein car 1578 16 8.0 5000
+python main_benchmark.py multi_REINFORCE_stein car 117 16 7.0 5000
+python main_benchmark.py multi_REINFORCE_stein car 85 16 6.0 5000
+python main_benchmark.py multi_REINFORCE_stein car 1647 16 9.0 5000
+python main_benchmark.py multi_REINFORCE_stein car 4131 16 11.0 5000
+python main_benchmark.py multi_REINFORCE_stein c 85 16 7.0 5000
+python main_benchmark.py multi_REINFORCE_stein c 117 16 8.0 5000
+python main_benchmark.py multi_REINFORCE_stein c 1578 16 9.0 5000
+python main_benchmark.py multi_REINFORCE_stein c 1647 16 10.0 5000
+python main_benchmark.py multi_REINFORCE_stein c 4131 16 11.0 5000
+python main_benchmark.py multi_REINFORCE_stein d 85 16 7.0 5000
+python main_benchmark.py multi_REINFORCE_stein d 117 16 8.0 5000
+python main_benchmark.py multi_REINFORCE_stein d 1647 16 10.0 5000
+python main_benchmark.py multi_REINFORCE_stein d 4131 16 11.0 5000
+python main_benchmark.py multi_REINFORCE_stein d 1578 16 9.0 5000
