@@ -2,8 +2,8 @@
 
 This repository contains the theano code to replicate experiments in our AISTATS paper.
 ```latex
-@inproceedings{Learning Structural Weight Uncertainty for Sequential Decision-Making, 
-  title={Adversarial Time-to-Event Modeling},
+@inproceedings{Zhang2018S2VGD}, 
+  title={Learning Structural Weight Uncertainty for Sequential Decision-Making},
   author={Zhang, Ruiyi and Li, Chunyuan and Chen, changyou and Carin, Lawrence},
   booktitle={AISTATS},
   year={2018}
